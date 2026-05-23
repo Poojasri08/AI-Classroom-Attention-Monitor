@@ -30,7 +30,7 @@ The system uses computer vision and facial landmark tracking to monitor:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/AI-Classroom-Attention-Monitoring-System.git
+git clone https://github.com/Poojasri08/AI-Classroom-Attention-Monitoring-System.git
 ```
 
 Install dependencies:
@@ -56,4 +56,4 @@ Press `q` to exit the webcam window.
 
 ## Author
 
-Pooja Sri
+Pooja Sri A
