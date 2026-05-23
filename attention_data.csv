@@ -1,0 +1,523 @@
+timestamp,status,head_status,attention_percentage
+2026-05-23 21:50:24.033722,Attentive,Looking Left,0
+2026-05-23 21:50:24.067424,Attentive,Looking Left,0
+2026-05-23 21:50:24.106908,Attentive,Looking Left,0
+2026-05-23 21:50:24.138121,Attentive,Looking Left,0
+2026-05-23 21:50:24.167855,Attentive,Looking Left,0
+2026-05-23 21:50:24.198176,Attentive,Looking Left,0
+2026-05-23 21:50:24.361936,Attentive,Looking Left,0
+2026-05-23 21:50:24.394001,Attentive,Looking Left,0
+2026-05-23 21:50:24.417002,Attentive,Looking Left,0
+2026-05-23 21:50:24.520183,Attentive,Looking Left,0
+2026-05-23 21:50:24.541528,Attentive,Looking Left,0
+2026-05-23 21:50:24.582623,Attentive,Looking Left,0
+2026-05-23 21:50:24.627798,Attentive,Looking Left,0
+2026-05-23 21:50:24.660246,Attentive,Looking Left,0
+2026-05-23 21:50:24.692090,Attentive,Looking Left,0
+2026-05-23 21:50:24.729427,Attentive,Looking Left,0
+2026-05-23 21:50:24.761360,Attentive,Looking Left,0
+2026-05-23 21:50:24.793583,Attentive,Looking Left,0
+2026-05-23 21:50:24.816906,Attentive,Looking Left,0
+2026-05-23 21:50:24.854013,Attentive,Looking Left,0
+2026-05-23 21:50:24.885397,Attentive,Looking Left,0
+2026-05-23 21:50:24.913182,Attentive,Looking Left,0
+2026-05-23 21:50:24.953610,Attentive,Looking Left,0
+2026-05-23 21:50:24.985420,Attentive,Looking Left,0
+2026-05-23 21:50:25.025595,Attentive,Looking Left,0
+2026-05-23 21:50:25.062250,Attentive,Looking Left,0
+2026-05-23 21:50:25.095709,Attentive,Looking Left,0
+2026-05-23 21:50:25.127065,Attentive,Looking Left,0
+2026-05-23 21:50:25.160426,Attentive,Looking Left,0
+2026-05-23 21:50:25.193653,Attentive,Looking Left,0
+2026-05-23 21:50:25.224736,Attentive,Looking Left,0
+2026-05-23 21:50:25.256248,Attentive,Looking Left,0
+2026-05-23 21:50:25.290607,Attentive,Looking Left,0
+2026-05-23 21:50:25.313085,Attentive,Looking Left,0
+2026-05-23 21:50:25.353996,Attentive,Looking Left,0
+2026-05-23 21:50:25.381625,Attentive,Looking Left,0
+2026-05-23 21:50:25.432530,Attentive,Focused,2
+2026-05-23 21:50:25.461433,Attentive,Focused,5
+2026-05-23 21:50:25.491110,Attentive,Focused,7
+2026-05-23 21:50:25.527361,Attentive,Focused,10
+2026-05-23 21:50:25.557957,Attentive,Focused,12
+2026-05-23 21:50:25.585347,Attentive,Focused,14
+2026-05-23 21:50:25.625841,Attentive,Focused,16
+2026-05-23 21:50:25.659067,Attentive,Focused,18
+2026-05-23 21:50:25.685618,Attentive,Focused,20
+2026-05-23 21:50:25.724028,Attentive,Focused,21
+2026-05-23 21:50:25.923158,Attentive,Focused,23
+2026-05-23 21:50:25.950026,Attentive,Focused,25
+2026-05-23 21:50:26.023503,Attentive,Focused,26
+2026-05-23 21:50:26.053005,Attentive,Focused,28
+2026-05-23 21:50:26.075924,Attentive,Focused,29
+2026-05-23 21:50:26.110175,Attentive,Focused,30
+2026-05-23 21:50:26.147334,Attentive,Focused,32
+2026-05-23 21:50:26.174707,Attentive,Focused,33
+2026-05-23 21:50:26.235361,Attentive,Focused,34
+2026-05-23 21:50:26.261990,Attentive,Focused,35
+2026-05-23 21:50:26.299737,Attentive,Focused,36
+2026-05-23 21:50:26.329983,Attentive,Focused,37
+2026-05-23 21:50:26.353758,Attentive,Focused,38
+2026-05-23 21:50:26.394637,Attentive,Focused,40
+2026-05-23 21:50:26.429694,Attentive,Focused,40
+2026-05-23 21:50:26.452583,Attentive,Focused,41
+2026-05-23 21:50:26.491836,Attentive,Focused,42
+2026-05-23 21:50:26.522219,Attentive,Focused,43
+2026-05-23 21:50:26.554069,Attentive,Focused,44
+2026-05-23 21:50:26.584790,Attentive,Focused,45
+2026-05-23 21:50:26.623950,Attentive,Focused,46
+2026-05-23 21:50:26.663685,Attentive,Focused,47
+2026-05-23 21:50:26.694956,Attentive,Focused,47
+2026-05-23 21:50:26.728136,Attentive,Focused,48
+2026-05-23 21:50:26.759813,Attentive,Focused,49
+2026-05-23 21:50:26.791272,Attentive,Focused,50
+2026-05-23 21:50:26.823826,Attentive,Focused,50
+2026-05-23 21:50:26.847066,Attentive,Focused,51
+2026-05-23 21:50:26.894338,Attentive,Focused,52
+2026-05-23 21:50:26.924690,Attentive,Focused,52
+2026-05-23 21:50:26.956137,Attentive,Focused,53
+2026-05-23 21:50:26.987742,Attentive,Focused,53
+2026-05-23 21:50:27.035441,Attentive,Focused,54
+2026-05-23 21:50:27.064912,Attentive,Focused,55
+2026-05-23 21:50:27.096245,Attentive,Focused,55
+2026-05-23 21:50:27.128969,Attentive,Focused,56
+2026-05-23 21:50:27.160270,Attentive,Focused,56
+2026-05-23 21:50:27.195983,Attentive,Focused,57
+2026-05-23 21:50:27.230398,Attentive,Focused,57
+2026-05-23 21:50:27.439505,Attentive,Focused,58
+2026-05-23 21:50:27.471803,Attentive,Focused,58
+2026-05-23 21:50:27.522695,Attentive,Focused,59
+2026-05-23 21:50:27.559985,Attentive,Focused,59
+2026-05-23 21:50:27.594584,Attentive,Focused,60
+2026-05-23 21:50:27.625132,Attentive,Focused,60
+2026-05-23 21:50:27.657633,Attentive,Focused,60
+2026-05-23 21:50:27.697489,Attentive,Focused,61
+2026-05-23 21:50:27.729883,Attentive,Focused,61
+2026-05-23 21:50:27.758787,Attentive,Focused,62
+2026-05-23 21:50:27.789370,Attentive,Focused,62
+2026-05-23 21:50:27.830172,Attentive,Focused,62
+2026-05-23 21:50:27.866823,Attentive,Focused,63
+2026-05-23 21:50:27.900943,Attentive,Focused,63
+2026-05-23 21:50:27.930072,Attentive,Focused,64
+2026-05-23 21:50:27.965395,Attentive,Focused,64
+2026-05-23 21:50:27.996901,Attentive,Focused,64
+2026-05-23 21:50:28.038248,Attentive,Focused,65
+2026-05-23 21:50:28.075409,Attentive,Focused,65
+2026-05-23 21:50:28.107555,Attentive,Focused,65
+2026-05-23 21:50:28.142675,Attentive,Focused,66
+2026-05-23 21:50:28.173705,Attentive,Focused,66
+2026-05-23 21:50:28.205612,Attentive,Focused,66
+2026-05-23 21:50:28.233792,Attentive,Focused,66
+2026-05-23 21:50:28.271797,Attentive,Focused,67
+2026-05-23 21:50:28.303461,Attentive,Focused,67
+2026-05-23 21:50:28.329635,Attentive,Focused,67
+2026-05-23 21:50:28.363610,Attentive,Focused,68
+2026-05-23 21:50:28.394024,Attentive,Focused,68
+2026-05-23 21:50:28.428057,Attentive,Focused,68
+2026-05-23 21:50:28.456924,Attentive,Focused,68
+2026-05-23 21:50:28.488251,Attentive,Focused,69
+2026-05-23 21:50:28.521913,Attentive,Focused,69
+2026-05-23 21:50:28.552159,Attentive,Focused,69
+2026-05-23 21:50:28.574639,Attentive,Focused,70
+2026-05-23 21:50:28.629461,Attentive,Focused,70
+2026-05-23 21:50:28.658732,Attentive,Focused,70
+2026-05-23 21:50:28.691268,Attentive,Focused,70
+2026-05-23 21:50:28.718891,Attentive,Focused,70
+2026-05-23 21:50:28.754728,Attentive,Focused,71
+2026-05-23 21:50:28.939529,Attentive,Focused,71
+2026-05-23 21:50:28.969335,Attentive,Focused,71
+2026-05-23 21:50:28.998769,Attentive,Focused,71
+2026-05-23 21:50:29.028756,Attentive,Focused,72
+2026-05-23 21:50:29.058713,Attentive,Focused,72
+2026-05-23 21:50:29.086845,Attentive,Focused,72
+2026-05-23 21:50:29.118005,Attentive,Focused,72
+2026-05-23 21:50:29.148905,Attentive,Focused,72
+2026-05-23 21:50:29.175598,Attentive,Focused,73
+2026-05-23 21:50:29.202305,Attentive,Focused,73
+2026-05-23 21:50:29.230789,Attentive,Focused,73
+2026-05-23 21:50:29.260269,Attentive,Focused,73
+2026-05-23 21:50:29.290910,Attentive,Focused,73
+2026-05-23 21:50:29.321001,Attentive,Focused,74
+2026-05-23 21:50:29.353910,Attentive,Focused,74
+2026-05-23 21:50:29.382135,Attentive,Focused,74
+2026-05-23 21:50:29.427925,Attentive,Focused,74
+2026-05-23 21:50:29.457664,Attentive,Focused,74
+2026-05-23 21:50:29.484325,Attentive,Focused,75
+2026-05-23 21:50:29.528123,Attentive,Focused,75
+2026-05-23 21:50:29.556252,Attentive,Focused,75
+2026-05-23 21:50:29.578613,Attentive,Focused,75
+2026-05-23 21:50:29.620608,Attentive,Focused,75
+2026-05-23 21:50:29.657174,Attentive,Focused,75
+2026-05-23 21:50:29.686392,Attentive,Focused,76
+2026-05-23 21:50:29.720382,Attentive,Focused,76
+2026-05-23 21:50:29.752553,Attentive,Focused,76
+2026-05-23 21:50:29.777165,Attentive,Focused,76
+2026-05-23 21:50:29.823952,Attentive,Focused,76
+2026-05-23 21:50:29.853777,Attentive,Focused,76
+2026-05-23 21:50:29.880673,Attentive,Focused,76
+2026-05-23 21:50:29.921096,Attentive,Focused,77
+2026-05-23 21:50:29.953372,Attentive,Focused,77
+2026-05-23 21:50:29.977144,Attentive,Focused,77
+2026-05-23 21:50:30.025161,Attentive,Focused,77
+2026-05-23 21:50:30.055653,Attentive,Focused,77
+2026-05-23 21:50:30.085381,Attentive,Focused,77
+2026-05-23 21:50:30.119620,Attentive,Focused,77
+2026-05-23 21:50:30.147026,Attentive,Focused,78
+2026-05-23 21:50:30.319303,Attentive,Focused,78
+2026-05-23 21:50:30.354439,Attentive,Focused,78
+2026-05-23 21:50:30.392448,Attentive,Focused,78
+2026-05-23 21:50:30.438087,Attentive,Focused,78
+2026-05-23 21:50:30.533295,Attentive,Focused,78
+2026-05-23 21:50:30.580055,Attentive,Focused,78
+2026-05-23 21:50:30.617348,Attentive,Focused,78
+2026-05-23 21:50:30.656986,Attentive,Focused,79
+2026-05-23 21:50:30.692266,Attentive,Focused,79
+2026-05-23 21:50:30.731155,Attentive,Focused,79
+2026-05-23 21:50:30.764279,Attentive,Focused,79
+2026-05-23 21:50:30.801863,Attentive,Focused,79
+2026-05-23 21:50:30.831114,Attentive,Focused,79
+2026-05-23 21:50:30.910222,Attentive,Focused,79
+2026-05-23 21:50:30.940420,Attentive,Focused,79
+2026-05-23 21:50:30.970802,Attentive,Focused,80
+2026-05-23 21:50:31.023805,Attentive,Focused,80
+2026-05-23 21:50:31.051221,Attentive,Focused,80
+2026-05-23 21:50:31.078726,Attentive,Focused,80
+2026-05-23 21:50:31.124588,Attentive,Focused,80
+2026-05-23 21:50:31.154370,Attentive,Focused,80
+2026-05-23 21:50:31.185130,Attentive,Focused,80
+2026-05-23 21:50:31.216952,Attentive,Focused,80
+2026-05-23 21:50:31.245756,Attentive,Focused,80
+2026-05-23 21:50:31.272933,Attentive,Focused,80
+2026-05-23 21:50:31.311979,Attentive,Focused,81
+2026-05-23 21:50:31.340065,Attentive,Focused,81
+2026-05-23 21:50:31.368527,Attentive,Focused,81
+2026-05-23 21:50:31.424757,Attentive,Focused,81
+2026-05-23 21:50:31.462355,Attentive,Focused,81
+2026-05-23 21:50:31.489663,Attentive,Focused,81
+2026-05-23 21:50:31.522356,Attentive,Focused,81
+2026-05-23 21:50:31.557567,Attentive,Focused,81
+2026-05-23 21:50:31.587781,Attentive,Focused,81
+2026-05-23 21:50:31.622324,Attentive,Focused,81
+2026-05-23 21:50:31.644936,Attentive,Focused,82
+2026-05-23 21:50:31.681703,Attentive,Focused,82
+2026-05-23 21:50:31.719020,Attentive,Focused,82
+2026-05-23 21:50:31.752297,Attentive,Focused,82
+2026-05-23 21:50:31.785594,Attentive,Focused,82
+2026-05-23 21:50:31.988430,Attentive,Focused,82
+2026-05-23 21:50:32.019734,Attentive,Focused,82
+2026-05-23 21:50:32.064968,Attentive,Focused,82
+2026-05-23 21:50:32.254189,Attentive,Focused,82
+2026-05-23 21:50:32.307082,Attentive,Focused,82
+2026-05-23 21:50:32.335102,Attentive,Focused,82
+2026-05-23 21:50:32.427463,Attentive,Focused,82
+2026-05-23 21:50:32.458018,Attentive,Focused,83
+2026-05-23 21:50:32.486847,Attentive,Focused,83
+2026-05-23 21:50:32.511708,Attentive,Focused,83
+2026-05-23 21:50:32.537457,Attentive,Focused,83
+2026-05-23 21:50:32.569496,Attentive,Focused,83
+2026-05-23 21:50:32.633481,Attentive,Focused,83
+2026-05-23 21:50:32.659385,Attentive,Focused,83
+2026-05-23 21:50:32.695473,Attentive,Focused,83
+2026-05-23 21:50:32.724914,Attentive,Focused,83
+2026-05-23 21:50:32.746257,Attentive,Focused,83
+2026-05-23 21:50:32.770924,Attentive,Focused,83
+2026-05-23 21:50:32.814379,Attentive,Focused,83
+2026-05-23 21:50:32.845080,Attentive,Focused,83
+2026-05-23 21:50:32.870620,Attentive,Focused,84
+2026-05-23 21:50:32.916946,Attentive,Focused,84
+2026-05-23 21:50:32.935658,Attentive,Focused,84
+2026-05-23 21:50:32.964681,Attentive,Focused,84
+2026-05-23 21:50:33.020302,Attentive,Focused,84
+2026-05-23 21:50:33.053344,Attentive,Focused,84
+2026-05-23 21:50:33.083598,Attentive,Focused,84
+2026-05-23 21:50:33.128934,Attentive,Focused,84
+2026-05-23 21:50:33.160802,Attentive,Focused,84
+2026-05-23 21:50:33.191872,Attentive,Focused,84
+2026-05-23 21:50:33.213723,Attentive,Focused,84
+2026-05-23 21:50:33.243964,Attentive,Focused,84
+2026-05-23 21:50:33.269947,Attentive,Focused,84
+2026-05-23 21:50:33.298104,Attentive,Focused,84
+2026-05-23 21:50:33.321521,Attentive,Focused,84
+2026-05-23 21:50:33.345313,Attentive,Focused,85
+2026-05-23 21:50:33.393413,Attentive,Focused,85
+2026-05-23 21:50:33.420738,Attentive,Focused,85
+2026-05-23 21:50:33.456578,Attentive,Focused,85
+2026-05-23 21:50:33.616074,Attentive,Focused,85
+2026-05-23 21:50:33.637528,Attentive,Focused,85
+2026-05-23 21:50:33.666035,Attentive,Focused,85
+2026-05-23 21:50:33.697756,Attentive,Focused,85
+2026-05-23 21:50:33.721784,Attentive,Focused,85
+2026-05-23 21:50:33.752369,Attentive,Focused,85
+2026-05-23 21:50:33.799221,Attentive,Focused,85
+2026-05-23 21:50:33.869176,Attentive,Focused,85
+2026-05-23 21:50:33.927988,Attentive,Focused,85
+2026-05-23 21:50:34.024395,Attentive,Focused,85
+2026-05-23 21:50:34.139303,Attentive,Focused,85
+2026-05-23 21:50:34.238705,Attentive,Focused,85
+2026-05-23 21:50:34.294475,Attentive,Focused,85
+2026-05-23 21:50:34.356027,Attentive,Focused,85
+2026-05-23 21:50:34.458344,Attentive,Focused,86
+2026-05-23 21:50:34.522929,Attentive,Focused,86
+2026-05-23 21:50:34.572627,Attentive,Focused,86
+2026-05-23 21:50:34.623246,Attentive,Focused,86
+2026-05-23 21:50:34.675382,Attentive,Focused,86
+2026-05-23 21:50:34.722218,Attentive,Focused,86
+2026-05-23 21:50:34.755597,Attentive,Focused,86
+2026-05-23 21:50:34.796270,Attentive,Focused,86
+2026-05-23 21:50:34.825216,Attentive,Focused,86
+2026-05-23 21:50:34.848723,Attentive,Focused,86
+2026-05-23 21:50:34.882781,Attentive,Focused,86
+2026-05-23 21:50:34.920493,Attentive,Focused,86
+2026-05-23 21:50:34.951732,Attentive,Focused,86
+2026-05-23 21:50:35.026121,Attentive,Focused,86
+2026-05-23 21:50:35.079063,Attentive,Focused,86
+2026-05-23 21:50:35.122243,Attentive,Focused,86
+2026-05-23 21:50:35.161361,Attentive,Focused,86
+2026-05-23 21:50:35.207224,Attentive,Focused,86
+2026-05-23 21:50:35.255096,Attentive,Focused,86
+2026-05-23 21:50:35.308660,Attentive,Focused,87
+2026-05-23 21:50:35.374789,Attentive,Focused,87
+2026-05-23 21:50:35.424723,Attentive,Focused,87
+2026-05-23 21:50:35.472209,Attentive,Focused,87
+2026-05-23 21:50:35.511648,Attentive,Focused,87
+2026-05-23 21:50:35.550508,Attentive,Focused,87
+2026-05-23 21:50:35.840625,Attentive,Focused,87
+2026-05-23 21:50:35.887019,Attentive,Focused,87
+2026-05-23 21:50:35.942548,Attentive,Focused,87
+2026-05-23 21:50:36.001669,Attentive,Focused,87
+2026-05-23 21:50:36.052358,Attentive,Focused,87
+2026-05-23 21:50:36.090118,Attentive,Focused,87
+2026-05-23 21:50:36.134955,Attentive,Focused,87
+2026-05-23 21:50:36.175878,Attentive,Focused,87
+2026-05-23 21:50:36.226371,Attentive,Focused,87
+2026-05-23 21:50:36.264845,Attentive,Focused,87
+2026-05-23 21:50:36.301133,Attentive,Focused,87
+2026-05-23 21:50:36.339035,Attentive,Focused,87
+2026-05-23 21:50:36.373245,Attentive,Focused,87
+2026-05-23 21:50:36.402905,Attentive,Focused,87
+2026-05-23 21:50:36.455363,Attentive,Focused,87
+2026-05-23 21:50:36.486080,Attentive,Focused,87
+2026-05-23 21:50:36.518384,Attentive,Focused,87
+2026-05-23 21:50:36.549540,Attentive,Focused,88
+2026-05-23 21:50:36.604192,Attentive,Focused,88
+2026-05-23 21:50:36.636497,Attentive,Focused,88
+2026-05-23 21:50:36.669269,Attentive,Focused,88
+2026-05-23 21:50:36.698870,Attentive,Focused,88
+2026-05-23 21:50:36.734047,Attentive,Focused,88
+2026-05-23 21:50:36.764859,Attentive,Focused,88
+2026-05-23 21:50:36.796839,Attentive,Focused,88
+2026-05-23 21:50:36.832524,Attentive,Focused,88
+2026-05-23 21:50:36.864234,Attentive,Focused,88
+2026-05-23 21:50:36.895049,Attentive,Focused,88
+2026-05-23 21:50:36.926988,Attentive,Focused,88
+2026-05-23 21:50:36.963585,Attentive,Focused,88
+2026-05-23 21:50:36.996525,Attentive,Focused,88
+2026-05-23 21:50:37.018330,Attentive,Focused,88
+2026-05-23 21:50:37.049866,Attentive,Focused,88
+2026-05-23 21:50:37.081815,Attentive,Focused,88
+2026-05-23 21:50:37.124947,Attentive,Focused,88
+2026-05-23 21:50:37.150608,Attentive,Focused,88
+2026-05-23 21:50:37.187136,Attentive,Focused,88
+2026-05-23 21:50:37.210424,Attentive,Focused,88
+2026-05-23 21:50:37.248154,Attentive,Focused,88
+2026-05-23 21:50:37.270220,Attentive,Focused,88
+2026-05-23 21:50:37.317591,Attentive,Focused,88
+2026-05-23 21:50:37.344409,Attentive,Focused,88
+2026-05-23 21:50:37.392160,Attentive,Focused,88
+2026-05-23 21:50:37.558772,Attentive,Focused,88
+2026-05-23 21:50:37.587442,Attentive,Focused,88
+2026-05-23 21:50:37.613607,Attentive,Focused,89
+2026-05-23 21:50:37.640381,Attentive,Focused,89
+2026-05-23 21:50:37.665599,Attentive,Looking Left,88
+2026-05-23 21:50:37.694165,Attentive,Looking Left,88
+2026-05-23 21:50:37.723122,Attentive,Looking Left,88
+2026-05-23 21:50:37.754965,Attentive,Looking Left,87
+2026-05-23 21:50:37.802056,Attentive,Looking Left,87
+2026-05-23 21:50:37.835525,Attentive,Looking Left,87
+2026-05-23 21:50:37.863152,Attentive,Looking Left,87
+2026-05-23 21:50:37.889628,Attentive,Looking Left,86
+2026-05-23 21:50:37.921063,Attentive,Looking Left,86
+2026-05-23 21:50:37.949243,Attentive,Looking Left,86
+2026-05-23 21:50:37.983951,Attentive,Looking Left,86
+2026-05-23 21:50:38.014363,Attentive,Looking Left,85
+2026-05-23 21:50:38.050785,Attentive,Looking Left,85
+2026-05-23 21:50:38.080356,Attentive,Looking Left,85
+2026-05-23 21:50:38.118825,Attentive,Looking Left,85
+2026-05-23 21:50:38.145477,Attentive,Looking Left,84
+2026-05-23 21:50:38.194848,Attentive,Looking Left,84
+2026-05-23 21:50:38.216693,Attentive,Looking Left,84
+2026-05-23 21:50:38.257861,Attentive,Looking Left,84
+2026-05-23 21:50:38.286167,Attentive,Looking Left,83
+2026-05-23 21:50:38.320450,Attentive,Looking Left,83
+2026-05-23 21:50:38.343586,Attentive,Looking Left,83
+2026-05-23 21:50:38.389100,Attentive,Looking Left,83
+2026-05-23 21:50:38.415185,Attentive,Looking Left,83
+2026-05-23 21:50:38.455938,Attentive,Looking Left,82
+2026-05-23 21:50:38.479504,Attentive,Looking Left,82
+2026-05-23 21:50:38.518573,Attentive,Looking Left,82
+2026-05-23 21:50:38.547829,Attentive,Looking Left,82
+2026-05-23 21:50:38.593685,Attentive,Looking Left,81
+2026-05-23 21:50:38.624915,Attentive,Looking Left,81
+2026-05-23 21:50:38.659047,Attentive,Looking Left,81
+2026-05-23 21:50:38.684392,Attentive,Looking Left,81
+2026-05-23 21:50:38.719612,Attentive,Looking Left,80
+2026-05-23 21:50:38.750320,Attentive,Looking Left,80
+2026-05-23 21:50:38.785152,Attentive,Looking Left,80
+2026-05-23 21:50:38.810474,Attentive,Looking Left,80
+2026-05-23 21:50:38.855215,Attentive,Looking Left,80
+2026-05-23 21:50:38.885015,Attentive,Looking Left,79
+2026-05-23 21:50:38.920707,Attentive,Looking Left,79
+2026-05-23 21:50:39.098757,Attentive,Looking Left,79
+2026-05-23 21:50:39.128025,Attentive,Looking Left,79
+2026-05-23 21:50:39.150604,Attentive,Looking Left,78
+2026-05-23 21:50:39.175279,Attentive,Looking Left,78
+2026-05-23 21:50:39.203281,Attentive,Looking Left,78
+2026-05-23 21:50:39.229349,Attentive,Looking Left,78
+2026-05-23 21:50:39.261798,Attentive,Looking Left,78
+2026-05-23 21:50:39.289851,Attentive,Looking Left,77
+2026-05-23 21:50:39.321514,Attentive,Looking Left,77
+2026-05-23 21:50:39.346652,Attentive,Looking Left,77
+2026-05-23 21:50:39.391908,Attentive,Looking Left,77
+2026-05-23 21:50:39.421054,Attentive,Looking Left,77
+2026-05-23 21:50:39.459928,Attentive,Looking Left,76
+2026-05-23 21:50:39.488255,Attentive,Looking Left,76
+2026-05-23 21:50:39.522492,Attentive,Looking Left,76
+2026-05-23 21:50:39.553751,Attentive,Looking Left,76
+2026-05-23 21:50:39.584968,Attentive,Looking Left,76
+2026-05-23 21:50:39.612146,Attentive,Looking Left,75
+2026-05-23 21:50:39.650194,Attentive,Looking Left,75
+2026-05-23 21:50:39.677814,Attentive,Looking Left,75
+2026-05-23 21:50:39.712354,Attentive,Looking Left,75
+2026-05-23 21:50:39.736674,Attentive,Looking Left,75
+2026-05-23 21:50:39.797982,Attentive,Looking Left,74
+2026-05-23 21:50:39.820002,Attentive,Looking Left,74
+2026-05-23 21:50:39.862627,Attentive,Looking Left,74
+2026-05-23 21:50:39.886956,Attentive,Looking Left,74
+2026-05-23 21:50:39.919182,Attentive,Looking Left,74
+2026-05-23 21:50:39.948682,Attentive,Looking Left,73
+2026-05-23 21:50:39.989500,Attentive,Looking Left,73
+2026-05-23 21:50:40.013687,Attentive,Looking Left,73
+2026-05-23 21:50:40.055324,Attentive,Looking Left,73
+2026-05-23 21:50:40.077817,Attentive,Looking Left,73
+2026-05-23 21:50:40.120266,Attentive,Looking Left,73
+2026-05-23 21:50:40.148355,Attentive,Looking Left,72
+2026-05-23 21:50:40.192478,Attentive,Looking Left,72
+2026-05-23 21:50:40.213881,Attentive,Looking Left,72
+2026-05-23 21:50:40.255847,Attentive,Looking Left,72
+2026-05-23 21:50:40.283989,Attentive,Looking Left,72
+2026-05-23 21:50:40.319161,Attentive,Looking Left,71
+2026-05-23 21:50:40.344578,Attentive,Looking Left,71
+2026-05-23 21:50:40.384237,Attentive,Looking Left,71
+2026-05-23 21:50:40.408127,Attentive,Looking Left,71
+2026-05-23 21:50:40.456686,Attentive,Looking Left,71
+2026-05-23 21:50:40.609660,Attentive,Looking Left,71
+2026-05-23 21:50:40.636427,Attentive,Looking Left,70
+2026-05-23 21:50:40.664028,Attentive,Looking Left,70
+2026-05-23 21:50:40.684815,Attentive,Looking Left,70
+2026-05-23 21:50:40.718491,Attentive,Looking Left,70
+2026-05-23 21:50:40.741821,Attentive,Looking Left,70
+2026-05-23 21:50:40.785496,Attentive,Looking Left,70
+2026-05-23 21:50:40.813540,Attentive,Looking Left,69
+2026-05-23 21:50:40.855148,Attentive,Looking Left,69
+2026-05-23 21:50:40.875056,Attentive,Looking Left,69
+2026-05-23 21:50:40.909718,Attentive,Looking Left,69
+2026-05-23 21:50:40.929743,Attentive,Looking Left,69
+2026-05-23 21:50:40.991960,Attentive,Looking Left,69
+2026-05-23 21:50:41.012629,Attentive,Looking Left,68
+2026-05-23 21:50:41.059787,Attentive,Looking Left,68
+2026-05-23 21:50:41.083812,Attentive,Looking Left,68
+2026-05-23 21:50:41.119480,Attentive,Looking Left,68
+2026-05-23 21:50:41.140672,Attentive,Looking Left,68
+2026-05-23 21:50:41.185205,Attentive,Looking Left,68
+2026-05-23 21:50:41.212998,Attentive,Looking Left,67
+2026-05-23 21:50:41.249282,Attentive,Looking Left,67
+2026-05-23 21:50:41.279776,Attentive,Looking Left,67
+2026-05-23 21:50:41.312541,Attentive,Looking Left,67
+2026-05-23 21:50:41.336794,Attentive,Looking Left,67
+2026-05-23 21:50:41.396075,Attentive,Looking Left,67
+2026-05-23 21:50:41.419671,Attentive,Looking Left,67
+2026-05-23 21:50:41.456622,Attentive,Looking Left,66
+2026-05-23 21:50:41.482978,Attentive,Looking Left,66
+2026-05-23 21:50:41.520469,Attentive,Looking Left,66
+2026-05-23 21:50:41.540584,Attentive,Looking Left,66
+2026-05-23 21:50:41.584174,Attentive,Looking Left,66
+2026-05-23 21:50:41.605437,Attentive,Looking Left,66
+2026-05-23 21:50:41.651101,Attentive,Looking Left,65
+2026-05-23 21:50:41.672411,Attentive,Looking Left,65
+2026-05-23 21:50:41.727902,Attentive,Looking Left,65
+2026-05-23 21:50:41.750562,Attentive,Looking Left,65
+2026-05-23 21:50:41.791786,Attentive,Looking Left,65
+2026-05-23 21:50:41.815730,Attentive,Looking Left,65
+2026-05-23 21:50:41.856113,Attentive,Looking Left,65
+2026-05-23 21:50:41.879082,Attentive,Looking Left,64
+2026-05-23 21:50:41.914689,Attentive,Looking Left,64
+2026-05-23 21:50:41.944962,Attentive,Looking Left,64
+2026-05-23 21:50:41.983124,Attentive,Looking Left,64
+2026-05-23 21:50:42.127643,Attentive,Looking Left,64
+2026-05-23 21:50:42.161173,Attentive,Looking Left,64
+2026-05-23 21:50:42.191963,Attentive,Looking Left,64
+2026-05-23 21:50:42.214093,Attentive,Looking Left,63
+2026-05-23 21:50:42.255534,Attentive,Focused,64
+2026-05-23 21:50:42.277674,Attentive,Focused,64
+2026-05-23 21:50:42.320408,Attentive,Focused,64
+2026-05-23 21:50:42.346999,Attentive,Focused,64
+2026-05-23 21:50:42.390299,Attentive,Focused,64
+2026-05-23 21:50:42.411858,Attentive,Focused,64
+2026-05-23 21:50:42.449154,Attentive,Focused,64
+2026-05-23 21:50:42.475872,Attentive,Focused,64
+2026-05-23 21:50:42.527981,Attentive,Focused,64
+2026-05-23 21:50:42.552274,Attentive,Focused,64
+2026-05-23 21:50:42.594079,Attentive,Focused,64
+2026-05-23 21:50:42.615415,Attentive,Focused,64
+2026-05-23 21:50:42.656050,Attentive,Focused,64
+2026-05-23 21:50:42.677847,Attentive,Focused,65
+2026-05-23 21:50:42.719831,Attentive,Focused,65
+2026-05-23 21:50:42.742935,Attentive,Focused,65
+2026-05-23 21:50:42.785729,Attentive,Focused,65
+2026-05-23 21:50:42.808493,Attentive,Focused,65
+2026-05-23 21:50:42.851521,Attentive,Focused,65
+2026-05-23 21:50:42.878294,Attentive,Focused,65
+2026-05-23 21:50:42.926476,Attentive,Focused,65
+2026-05-23 21:50:42.954304,Attentive,Focused,65
+2026-05-23 21:50:42.994901,Attentive,Focused,65
+2026-05-23 21:50:43.019256,Attentive,Focused,65
+2026-05-23 21:50:43.060586,Attentive,Focused,65
+2026-05-23 21:50:43.088779,Attentive,Focused,65
+2026-05-23 21:50:43.124328,Attentive,Focused,65
+2026-05-23 21:50:43.152446,Attentive,Focused,66
+2026-05-23 21:50:43.188882,Attentive,Focused,66
+2026-05-23 21:50:43.214720,Attentive,Focused,66
+2026-05-23 21:50:43.248738,Attentive,Focused,66
+2026-05-23 21:50:43.279994,Attentive,Focused,66
+2026-05-23 21:50:43.328422,Attentive,Focused,66
+2026-05-23 21:50:43.363467,Attentive,Focused,66
+2026-05-23 21:50:43.398252,Attentive,Focused,66
+2026-05-23 21:50:43.423989,Attentive,Focused,66
+2026-05-23 21:50:43.463683,Attentive,Focused,66
+2026-05-23 21:50:43.486542,Attentive,Focused,66
+2026-05-23 21:50:43.527827,Attentive,Focused,66
+2026-05-23 21:50:43.712815,Attentive,Focused,66
+2026-05-23 21:50:43.742309,Attentive,Focused,66
+2026-05-23 21:50:43.765808,Attentive,Focused,67
+2026-05-23 21:50:43.791501,Attentive,Focused,67
+2026-05-23 21:50:43.814435,Attentive,Focused,67
+2026-05-23 21:50:43.858871,Attentive,Focused,67
+2026-05-23 21:50:43.881082,Attentive,Focused,67
+2026-05-23 21:50:43.906972,Attentive,Focused,67
+2026-05-23 21:50:43.958577,Attentive,Looking Left,67
+2026-05-23 21:50:43.989099,Attentive,Looking Left,67
+2026-05-23 21:50:44.015960,Attentive,Looking Left,66
+2026-05-23 21:50:44.045044,Attentive,Looking Left,66
+2026-05-23 21:50:44.080488,Attentive,Looking Left,66
+2026-05-23 21:50:44.105528,Attentive,Looking Left,66
+2026-05-23 21:50:44.130159,Attentive,Looking Left,66
+2026-05-23 21:50:44.160609,Attentive,Looking Left,66
+2026-05-23 21:50:44.199074,Attentive,Looking Left,66
+2026-05-23 21:50:44.259734,Attentive,Looking Left,66
+2026-05-23 21:50:44.285532,Attentive,Looking Left,65
+2026-05-23 21:50:44.311987,Attentive,Looking Left,65
+2026-05-23 21:50:44.356487,Attentive,Looking Left,65
+2026-05-23 21:50:44.380644,Attentive,Looking Left,65
+2026-05-23 21:50:44.412014,Attentive,Looking Left,65
+2026-05-23 21:50:44.666550,Attentive,Looking Left,65
+2026-05-23 21:50:44.712853,Attentive,Looking Left,65
